@@ -9,6 +9,11 @@ import com.SpringMybatis.service.StudentService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
+/**
+ * 
+ * @author zcm
+ *
+ */
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "classpath:ApplicationContext.xml" })
