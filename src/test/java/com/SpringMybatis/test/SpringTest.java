@@ -20,7 +20,7 @@ public class SpringTest {
 
 	    	Student student = studentService.getStudentInfo("01");
 	        System.out.println(student.getSname());
-	        System.out.println("dfsd");
+	        //System.out.println("dfsd");
 
 	    }
 }
